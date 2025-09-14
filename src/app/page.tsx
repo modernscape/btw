@@ -1,7 +1,7 @@
 // import Image from "next/image";
 
 export default function Home() {
-  return <div className="grid items-center">btw</div>;
+  return <div className="grid items-center justify-items-center min-h-screen">btw</div>;
 }
 
 // export function Home_0() {
